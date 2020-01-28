@@ -6,22 +6,37 @@ labels: ''
 
 ---
 
-### Which Renovate are you using? x the right box:
+<!-- Please make sure to fill out this questionnaire. You don't need to delete any of the html comments like these ones -->
 
-- [ ] Renovate Open Source CLI
-- [ ] WhiteSource Renovate App
-- [ ] Renovate Pro
-- [ ] Other (please write below)
+### Which Renovate are you using?
 
-### Which platform are you using? x the right box:
+<!-- Delete those that don't apply -->
 
-- [ ] GitHub.com
-- [ ] GitHub Enterprise
-- [ ] GitLab.com
-- [ ] GitLab self-hosted
-- [ ] Bitbucket Server
-- [ ] Bitbucket Cloud
-- [ ] Azure DevOps
+Renovate Open Source CLI
+
+WhiteSource Renovate App
+
+Renovate Pro
+
+Other (please write below)
+
+### Which platform are you using?
+
+<!-- Delete those that don't apply -->
+
+GitHub.com
+
+GitHub Enterprise
+
+GitLab.com
+
+GitLab self-hosted
+
+Bitbucket Server
+
+Bitbucket Cloud
+
+Azure DevOps
 
 ### Have you checked the logs? Don't forget to include them if relevant
 
@@ -29,4 +44,4 @@ labels: ''
 
 ### What would you like to do?
 
-<!-- Maybe you came to a "dead end" with config and now have a question. But don't forget to tell us what you "really" want to do in the first place, because maybe there's a better way or we can help you better if we understand what you actually need to achieve -->
+<!-- Maybe you came here because you reached a "dead end" with config and now have a particular question. But don't forget to tell us what you *really* set out to achieve in the first place, because maybe there's a better way or we can help you better if we understand what your original goal was -->
