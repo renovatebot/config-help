@@ -10,3 +10,11 @@ exemptLabels:
 markComment: >
   This issue has been automatically marked as stale because it has not had
   recent activity. It will be closed soon if no further activity occurs.
+  
+  If this question is not done (either you plan to update it or are waiting
+  on someone to respond) then please add a comment here to bump it and/or
+  get the other person's attention.
+  
+  We aim to do our best to solve every problem. This bot is here to help us
+  clean up issues which are no longer of use to the original poster, and not
+  to close anything prematurely, so bump as you need!
