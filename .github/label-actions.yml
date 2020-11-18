@@ -4,15 +4,15 @@ issues:
   actions:
     missing-template:
       comment: >
-        @{issue-author}, please resubmit your issue using the Config Help issue template.
+        Please resubmit this issue using the [Config Help issue template](https://github.com/renovatebot/config-help/issues/new?labels=&template=config-help.md&title=).
       close: true
     needs-config:
       comment: >
-        @{issue-author}, please add your Renovate config to this issue.
+        Please add your Renovate config to this issue.
       close: false
     needs-logs:
       comment: >
-        @{issue-author}, please provide debug logs for this problem. Try to include only the relevant lines, e.g. for the particular dependency and/or branch that's relevant.
+        Please provide debug logs for this problem. Try to include only the relevant lines, e.g. for the particular dependency and/or branch that's relevant.
       close: false
     needs-reproduction:
       comment: >
