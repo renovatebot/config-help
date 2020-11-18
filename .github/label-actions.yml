@@ -1,0 +1,13 @@
+# Configuration for Label Actions - https://github.com/dessant/label-actions
+
+issues:
+  actions:
+    missing-template:
+      comment: @{issue-author}, please resubmit your issue using the Config Help issue template.
+      close: true
+    needs-config:
+      comment: @{issue-author}, please add your Renovate config to this issue.
+      close: false
+    needs-logs:
+      comment: @{issue-author}, please provide debug logs for this problem. Try to include only the relevant lines, e.g. for the particular dependency and/or branch that's relevant.
+      close: false
