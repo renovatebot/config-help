@@ -11,3 +11,6 @@ issues:
     needs-logs:
       comment: @{issue-author}, please provide debug logs for this problem. Try to include only the relevant lines, e.g. for the particular dependency and/or branch that's relevant.
       close: false
+    needs-reproduction:
+      comment: This needs to be reproduced in a public repository in order to troubleshoot further. Without a reproduction, it won't be possible to answer further.
+      close: false
