@@ -17,6 +17,7 @@ issues:
     filter-logs:
       comment: >
         Please do not copy paste your entire unfiltered logs. Go through the logs yourself and paste here only the parts which seem relevant.
+      close: false
     needs-reproduction:
       comment: >
         This needs to be reproduced in a public repository in order to troubleshoot further. Without a reproduction, it won't be possible to answer further.
@@ -24,3 +25,4 @@ issues:
     unclear-description:
       comment: >
         The current description of what you're trying to solve is not clear enough. Please add comments which better explain what you're trying to achieve, what's going wrong, etc.
+      close: false
